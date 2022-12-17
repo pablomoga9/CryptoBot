@@ -1,0 +1,29 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomoga9/CryptoBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablomoga9/CryptoBot/issues"
+  },
+  "homepage": "https://github.com/pablomoga9/CryptoBot#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "binance-api-node": "^0.12.1",
+    "comma-number": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "node-binance-api": "^0.13.1",
+    "node-storage": "^0.0.9",
+    "uuid": "^9.0.0",
+    "web3": "^1.8.1"
+  }
+}
